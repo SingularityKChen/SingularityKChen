@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Singularity Chen, a Ph.D. candidate in NTU. My interests are architecture design and exploring the fashionable things.
+My name is Singularity Chen, a Ph.D. candidate in SCSE at NTU. My interests are architecture design and exploring the fashionable things.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=singularitykchen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
