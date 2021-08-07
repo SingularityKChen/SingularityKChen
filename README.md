@@ -4,7 +4,7 @@ My name is Singularity Chen, a Ph.D. candidate in SCSE at NTU. My interests are 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=singularitykchen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are the coding languages that I used (actually, I also used Python in my private repo ⚡).
+Here are the coding languages that I used (actually, I also use Python and Perl in my private repos ⚡).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singularitykchen)](https://github.com/anuraghazra/github-readme-stats)
 
