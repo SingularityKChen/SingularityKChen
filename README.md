@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Singularity Chen, a Ph.D. candidate in SCSE at NTU. My interests are architecture design and exploring the fashionable things.
+My name is Singularity Chen, a Ph.D. candidate in SCSE at NTU. My interests are architecture design and exploring fashionable things.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=singularitykchen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Singularity's GitHub stats](https://github-stats-extended.vercel.app/api?username=singularitykchen&count_private=true&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 Here are the coding languages that I used (actually, I also use Python and Perl in my private repos ⚡).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singularitykchen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=singularitykchen)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SingularityKChen/SingularityKChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
