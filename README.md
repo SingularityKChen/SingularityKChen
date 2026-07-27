@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![SingularityKChen's GitHub activity graph of last 31 days.](https://activity-graph.herokuapp.com/graph?username=SingularityKChen&theme=github&custom_title=SingularityKChen's%20GitHub%20activity%20of%20last%2031%20days)](https://github.com/SingularityKChen)
+[![SingularityKChen's GitHub activity graph of last 31 days.](https://github-readme-activity-graph.vercel.app/graph?username=SingularityKChen&theme=github&custom_title=SingularityKChen's%20GitHub%20activity%20of%20last%2031%20days)](https://github.com/SingularityKChen)
